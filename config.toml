@@ -2,7 +2,6 @@ baseURL = 'https://example.org/'
 languageCode = 'fr-fr'
 title = 'Kevin Bourgeois'
 theme = 'lightbi2'
-hideAuthor = true
 
 [[menu.main]]
     name = "Home"
